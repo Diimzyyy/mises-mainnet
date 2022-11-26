@@ -34,7 +34,7 @@
 
 ### Install otomatis
 ```
-wget -O mises.sh https://raw.githubusercontent.com/bangpateng/mises-mainnet/main/mises.sh && chmod +x mises.sh && ./mises.sh
+wget -O mises.sh https://raw.githubusercontent.com/Diimzyyy/mises-mainnet/main/mises.sh && chmod +x mises.sh && ./mises.sh
 ```
 ### Load variable ke system
 ```
