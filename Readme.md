@@ -1,7 +1,7 @@
 # Tutorial Runnig Validator Mises Mainnet
 
 <p style="font-size:14px" align="right">
-<a href="https://t.me/bangpateng_group" target="_blank">Join Telegram Bang Pateng<img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
+<a href="https://t.me/airdroproper" target="_blank">Join Telegram Airdrop Proper <img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
 </p>
 
 <p align="center">
